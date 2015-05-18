@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃えないごみ,,,img/moenaigomi.svg,#733b96
-有害ごみ,,,img/yuugaigomi.svg,#77ae1f
+燃えないごみ,,,img/moenaigomi.svg,#c0c0c0
+有害ごみ,,,img/yuugaigomi.svg,#ffff00
 燃えるごみ,,,img/moerugomi.svg,#ea3b13
-びん・缶,,,img/bin.kan.svg,#2dc7aa 
+びん・缶,,,img/bin.kan.svg,#00ffff
 紙・布,,,img/kami.nuno.svg,#00ff00
-ペットボトル,,,img/pettobotoru.svg,#00ffff
+ペットボトル,,,img/pettobotoru.svg,#0000ff
 その他容器包装プラスチック,,,sonotayoukihousoupurasutikku.svg,#ff00ff
