@@ -1,5 +1,8 @@
 label,sublabel,description,styles,bgcolor
 燃えないごみ,,,img/moenaigomi.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
+有害ごみ,,,img/yuugaigomi.svg,#77ae1f
 燃えるごみ,,,img/moerugomi.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa 
+びん・缶,,,img/bin.kan.svg,#2dc7aa 
+紙・布,,,img/kami.nuno.svg,
+ペットボトル,,,img/pettobotoru.svg,
+その他容器包装プラスチック,,,sonotayoukihousoupurasutikku.svg,
