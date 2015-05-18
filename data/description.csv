@@ -3,6 +3,6 @@ label,sublabel,description,styles,bgcolor
 有害ごみ,,,img/yuugaigomi.svg,#77ae1f
 燃えるごみ,,,img/moerugomi.svg,#ea3b13
 びん・缶,,,img/bin.kan.svg,#2dc7aa 
-紙・布,,,img/kami.nuno.svg,
-ペットボトル,,,img/pettobotoru.svg,
-その他容器包装プラスチック,,,sonotayoukihousoupurasutikku.svg,
+紙・布,,,img/kami.nuno.svg,#00ff00
+ペットボトル,,,img/pettobotoru.svg,#00ffff
+その他容器包装プラスチック,,,sonotayoukihousoupurasutikku.svg,#ff00ff
